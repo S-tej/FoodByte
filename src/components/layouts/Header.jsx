@@ -74,7 +74,7 @@ export default function Header() {
 
   return (
     <header className="">
-      <div className="flex block items-center md:hidden justify-between">
+      <div className="flex items-center md:hidden justify-between">
         <Link className="text-primary font-semibold text-2xl" href={"/"}>
           FOOD BYTE
         </Link>
